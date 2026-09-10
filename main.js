@@ -10,7 +10,7 @@ let elemento_html = document.querySelector('body');
 elemento_html.appendChild(document.createElement('div'));
 
 let elemento_div = document.querySelector('div');
-elemento_div.style.backgroundColor = ('rgb(16, 134, 202)');
+elemento_div.style.backgroundColor = ('rgb(12, 109, 165)');
 elemento_div.style.width = ('440px');
 elemento_div.textContent = typeof num + ": " + num + "; "
 + typeof texto + ": " + texto + "; " +
